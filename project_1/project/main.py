@@ -19,4 +19,5 @@ if __name__ == '__main__':
     churn_predictor = ChurnPredictor(pth=r"./data/bank_data.csv")
 
     # print(churn_predictor.import_data())
+    churn_predictor.perform_eda()
     churn_predictor.classification_report_image()
