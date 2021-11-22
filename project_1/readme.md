@@ -11,6 +11,7 @@ While inside the project_1 folder run the below command below command to create 
 ##### Running Docker Container.
 
 Still inside the project_1 folder run the image using the below command.
+
 ```docker run churn_predictor```
 
 ##### Copy results from Docker to host.
