@@ -16,6 +16,6 @@ Still inside the project_1 folder run the image using the below command.
 
 ##### Copy results from Docker to host.
 
-When the command prompt displays All results saved inisde the project_1 folder run the below command to copy the results from the docker container.
+When the command prompt displays ***All results saved*** from inisde the project_1 folder run the below command to copy the results from the docker container.
 
 ```docker cp churn_predictor:/ChurnPredictor/project/images/results/ project/images```
