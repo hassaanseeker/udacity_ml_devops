@@ -2,8 +2,11 @@
 
 Follow the below guidelines
 
-First use below command to create a docker image
-docker build . -t churn_predictor
+##### Starting Docker Container.
+
+While inside the project_1 folder run the below command below command to create a docker image.
+
+'docker build . -t churn_predictor'
 
 Second run the image using the below.
 docker run churn_predictor 
